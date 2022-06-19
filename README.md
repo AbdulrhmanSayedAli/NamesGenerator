@@ -1,4 +1,4 @@
-## About :
+# About :
 Names Generator is a python package that draws your name in the console with custom symbols and sizes easily and in one line
 
 # images :
