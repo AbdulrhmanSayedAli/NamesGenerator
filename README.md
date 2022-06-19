@@ -1,4 +1,5 @@
-## Names Generator is a python package that draws your name in the console with custom symbols and sizes easily and in one line
+##About :
+Names Generator is a python package that draws your name in the console with custom symbols and sizes easily and in one line
 
 #images :
 
@@ -26,6 +27,7 @@ e.DrawWithYourNameLettersMode("sarah")
 import NamesGeneratorByRoctes7 as e
 e.DrawWithCustomSize("AA" ,"#" , 30)
 ```
+<b> Note : </b> size should be divisible by five
 
 * DrawWithRandomMode : generates your name with a random symbols defined by you
 
