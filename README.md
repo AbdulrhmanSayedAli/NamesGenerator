@@ -10,6 +10,15 @@ Names Generator is a python package that draws your name in the console with cus
 ![image3](https://github.com/AbdulrhmanSayedAli/NamesGenerator/blob/main/images/image_3.png)
 
 
+# usage :
+install the library using this command in the cmd
+
+```python
+pip install -i https://test.pypi.org/simple/ NamesGeneratorByRoctes7
+```
+
+
+
 # there is three modes in this package :
 
 * DrawWithYourNameLettersMode : generates your name with your name's letters
