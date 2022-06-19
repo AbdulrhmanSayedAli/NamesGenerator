@@ -1,0 +1,8 @@
+README.md
+setup.py
+NamesGeneratorByRoctes7/__init__.py
+NamesGeneratorByRoctes7/main.py
+NamesGeneratorByRoctes7.egg-info/PKG-INFO
+NamesGeneratorByRoctes7.egg-info/SOURCES.txt
+NamesGeneratorByRoctes7.egg-info/dependency_links.txt
+NamesGeneratorByRoctes7.egg-info/top_level.txt
